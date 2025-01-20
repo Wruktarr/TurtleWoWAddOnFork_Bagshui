@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: Bagshui
+## Notes: All-in-one autosorting inventory
+## Author: veechs
+## Version: 1.2.15
+## OptionalDeps: AtlasLoot, ItemRack, Outfitter, pfUI
+## SavedVariables: BagshuiData
+
+Bagshui.xml
